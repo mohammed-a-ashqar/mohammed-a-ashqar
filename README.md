@@ -51,8 +51,8 @@ Most of my production work belongs to employers and clients, so the repositories
 | **Karoto** | Grocery e-commerce (web + mobile) | Laravel 11, Passport, REST API | Extended the platform for grocery: products sold by unit (kg, piece, pack), a caching layer for the catalogue with automatic invalidation on product changes, and custom APIs for the mobile app |
 | **[TechZone](https://techzone.so)** | Corporate website and CMS for a technology company | Laravel 9, Sanctum, DataTables, Google Analytics API, WebSockets | Built the site and its admin: services and sub-services, industries, case studies, products, team, blog, careers with job applications, per-page SEO, an in-dashboard Google Analytics report and automatic image optimization |
 | **Athar · أَثَر** | 3D storefront for a house of rare objects (in progress) | React 19, Three.js / React Three Fiber, GSAP, Lenis, Laravel API | Built the front end: photoreal 3D scans on a virtual studio stage with HDRI lighting, depth of field and bloom, scroll-driven GSAP motion, Arabic RTL, catalogue lots with provenance; Laravel backend for lots and orders under way |
-| **Fajr Relief** | Donation & fundraising | Laravel 10, Sanctum API | Integrated a third-party donation / payment API through a dedicated service layer |
-| **MDM** | Invoicing system & company websites | Laravel, Livewire, Filament | Built the invoicing system (invoices, credit notes, payment tracking) and the Filament-based company CMS |
+| **[Fajr Relief](https://fajrrelief.com/)** | Donation & fundraising | Laravel 10, Sanctum API | Integrated a third-party donation / payment API through a dedicated service layer |
+| **[MDM Invoicing](https://invoice.mdmderma.com)** | Invoicing system & company websites | Laravel, Livewire, Filament | Built the invoicing system (invoices, credit notes, payment tracking) and the Filament-based company CMS |
 
 <sub>Code is private under client agreements; happy to walk through the architecture in an interview.</sub>
 
